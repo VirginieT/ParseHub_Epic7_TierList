@@ -1,0 +1,1845 @@
+{
+    "Character": [
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Achates-Icon-1.png",
+            "url": "https://epic7x.com/character/achates/",
+            "name": "Achates",
+            "name_url": "https://epic7x.com/character/achates/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/10/Adin-icon.png",
+            "url": "https://epic7x.com/character/adin/",
+            "name": "Adin",
+            "name_url": "https://epic7x.com/character/adin/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Adlay-Icon-1.png",
+            "url": "https://epic7x.com/character/adlay/",
+            "name": "Adlay",
+            "name_url": "https://epic7x.com/character/adlay/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Adventurer-Ras-icon.png",
+            "url": "https://epic7x.com/character/adventurer-ras/",
+            "name": "Adventurer Ras",
+            "name_url": "https://epic7x.com/character/adventurer-ras/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Ainos-icon.png",
+            "url": "https://epic7x.com/character/ainos/",
+            "name": "Ainos",
+            "name_url": "https://epic7x.com/character/ainos/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Ains-icon.png",
+            "url": "https://epic7x.com/character/ains/",
+            "name": "Ains",
+            "name_url": "https://epic7x.com/character/ains/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Aither-icon.png",
+            "url": "https://epic7x.com/character/aither/",
+            "name": "Aither",
+            "name_url": "https://epic7x.com/character/aither/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Alencia-Icon-1.png",
+            "url": "https://epic7x.com/character/alencia/",
+            "name": "Alencia",
+            "name_url": "https://epic7x.com/character/alencia/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Alexa-icon-1.png",
+            "url": "https://epic7x.com/character/alexa/",
+            "name": "Alexa",
+            "name_url": "https://epic7x.com/character/alexa/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/All-Rounder-Wanda-icon.png",
+            "url": "https://epic7x.com/character/all-rounder-wanda/",
+            "name": "All-Rounder Wanda",
+            "name_url": "https://epic7x.com/character/all-rounder-wanda/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Ambitious-Tywin-icon.png",
+            "url": "https://epic7x.com/character/ambitious-tywin/",
+            "name": "Ambitious Tywin",
+            "name_url": "https://epic7x.com/character/ambitious-tywin/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/09/Angel-of-Light-Angelica-icon.png",
+            "url": "https://epic7x.com/character/angel-of-light-angelica/",
+            "name": "Angel of Light Angelica",
+            "name_url": "https://epic7x.com/character/angel-of-light-angelica/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/a.momo-icon.png",
+            "url": "https://epic7x.com/character/angelic-montmorancy/",
+            "name": "Angelic Montmorancy",
+            "name_url": "https://epic7x.com/character/angelic-montmorancy/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Angelica-icon-1.png",
+            "url": "https://epic7x.com/character/angelica/",
+            "name": "Angelica",
+            "name_url": "https://epic7x.com/character/angelica/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Apocalypse-Ravi-icon.png",
+            "url": "https://epic7x.com/character/apocalypse-ravi/",
+            "name": "Apocalypse Ravi",
+            "name_url": "https://epic7x.com/character/apocalypse-ravi/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Aramintha-icon.png",
+            "url": "https://epic7x.com/character/aramintha/",
+            "name": "Aramintha",
+            "name_url": "https://epic7x.com/character/aramintha/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Arbiter-Vildred-icon-1.png",
+            "url": "https://epic7x.com/character/arbiter-vildred/",
+            "name": "Arbiter Vildred",
+            "name_url": "https://epic7x.com/character/arbiter-vildred/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/01/Archdemon-Shadow-icon.png",
+            "url": "https://epic7x.com/character/archdemons-shadow/",
+            "name": "Archdemon’s Shadow",
+            "name_url": "https://epic7x.com/character/archdemons-shadow/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/01/Aria-icon.png",
+            "url": "https://epic7x.com/character/aria/",
+            "name": "Aria",
+            "name_url": "https://epic7x.com/character/aria/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Armin-icon-1.png",
+            "url": "https://epic7x.com/character/armin/",
+            "name": "Armin",
+            "name_url": "https://epic7x.com/character/armin/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Arowell-icon.png",
+            "url": "https://epic7x.com/character/arowell/",
+            "name": "Arowell",
+            "name_url": "https://epic7x.com/character/arowell/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Assassin-Cartuja-icon.png",
+            "url": "https://epic7x.com/character/assassin-cartuja/",
+            "name": "Assassin Cartuja",
+            "name_url": "https://epic7x.com/character/assassin-cartuja/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Assassin-Cidd-icon.png",
+            "url": "https://epic7x.com/character/assassin-cidd/",
+            "name": "Assassin Cidd",
+            "name_url": "https://epic7x.com/character/assassin-cidd/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Assassin-Coli-icon.png",
+            "url": "https://epic7x.com/character/assassin-coli/",
+            "name": "Assassin Coli",
+            "name_url": "https://epic7x.com/character/assassin-coli/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Auxiliary-Lots-Icon.png",
+            "url": "https://epic7x.com/character/auxiliary-lots/",
+            "name": "Auxiliary Lots",
+            "name_url": "https://epic7x.com/character/auxiliary-lots/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Azalea-icon.png",
+            "url": "https://epic7x.com/character/azalea/",
+            "name": "Azalea",
+            "name_url": "https://epic7x.com/character/azalea/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/04/Baal-icon.png",
+            "url": "https://epic7x.com/character/baal-and-sezan/",
+            "name": "Baal and Sezan",
+            "name_url": "https://epic7x.com/character/baal-and-sezan/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/01/Bad-Cat-Armin-icon.png",
+            "url": "https://epic7x.com/character/bad-cat-armin/",
+            "name": "Bad Cat Armin",
+            "name_url": "https://epic7x.com/character/bad-cat-armin/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/04/Baiken-Icon.png",
+            "url": "https://epic7x.com/character/baiken/",
+            "name": "Baiken",
+            "name_url": "https://epic7x.com/character/baiken/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/04/Basar-icon.png",
+            "url": "https://epic7x.com/character/basar/",
+            "name": "Basar",
+            "name_url": "https://epic7x.com/character/basar/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Bask-icon.png",
+            "url": "https://epic7x.com/character/bask/",
+            "name": "Bask",
+            "name_url": "https://epic7x.com/character/bask/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Batisse-icon.png",
+            "url": "https://epic7x.com/character/batisse/",
+            "name": "Batisse",
+            "name_url": "https://epic7x.com/character/batisse/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/09/Belian-icon.png",
+            "url": "https://epic7x.com/character/belian/",
+            "name": "Belian",
+            "name_url": "https://epic7x.com/character/belian/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Bellona-icon.png",
+            "url": "https://epic7x.com/character/bellona/",
+            "name": "Bellona",
+            "name_url": "https://epic7x.com/character/bellona/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/12/Benevolent-Romann-icon.png",
+            "url": "https://epic7x.com/character/benevolent-romann/",
+            "name": "Benevolent Romann",
+            "name_url": "https://epic7x.com/character/benevolent-romann/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/03/qkmrAJz.png",
+            "url": "https://epic7x.com/character/blaze-dingo/",
+            "name": "Blaze Dingo",
+            "name_url": "https://epic7x.com/character/blaze-dingo/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/12/Blood-Blade-Karin-icon.png",
+            "url": "https://epic7x.com/character/blood-blade-karin/",
+            "name": "Blood Blade Karin",
+            "name_url": "https://epic7x.com/character/blood-blade-karin/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/12/Blood-Moon-Haste-icon.png",
+            "url": "https://epic7x.com/character/blood-moon-haste/",
+            "name": "Blood Moon Haste",
+            "name_url": "https://epic7x.com/character/blood-moon-haste/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/03/Kanna-icon.png",
+            "url": "https://epic7x.com/character/bomb-model-kanna/",
+            "name": "Bomb Model Kanna",
+            "name_url": "https://epic7x.com/character/bomb-model-kanna/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/07/Briar-Witch-Iseria-icon-1.png",
+            "url": "https://epic7x.com/character/briar-witch-iseria/",
+            "name": "Briar Witch Iseria",
+            "name_url": "https://epic7x.com/character/briar-witch-iseria/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Butcher-Corps-Inquisitor-icon.png",
+            "url": "https://epic7x.com/character/butcher-corps-inquisitor/",
+            "name": "Butcher Corps Inquisitor",
+            "name_url": "https://epic7x.com/character/butcher-corps-inquisitor/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/09/Camilla-icon.png",
+            "url": "https://epic7x.com/character/camilla/",
+            "name": "Camilla",
+            "name_url": "https://epic7x.com/character/camilla/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Captain-Rikoris-icon.png",
+            "url": "https://epic7x.com/character/captain-rikoris/",
+            "name": "Captain Rikoris",
+            "name_url": "https://epic7x.com/character/captain-rikoris/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Carmainerose-1.png",
+            "url": "https://epic7x.com/character/carmainerose/",
+            "name": "Carmainerose",
+            "name_url": "https://epic7x.com/character/carmainerose/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Carrot-icon.png",
+            "url": "https://epic7x.com/character/carrot/",
+            "name": "Carrot",
+            "name_url": "https://epic7x.com/character/carrot/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Cartuja-icon.png",
+            "url": "https://epic7x.com/character/cartuja/",
+            "name": "Cartuja",
+            "name_url": "https://epic7x.com/character/cartuja/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Cecilia-icon.png",
+            "url": "https://epic7x.com/character/cecilia/",
+            "name": "Cecilia",
+            "name_url": "https://epic7x.com/character/cecilia/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Celeste-icon.png",
+            "url": "https://epic7x.com/character/celeste/",
+            "name": "Celeste",
+            "name_url": "https://epic7x.com/character/celeste/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Celestial-Mercedes-icon.png",
+            "url": "https://epic7x.com/character/celestial-mercedes/",
+            "name": "Celestial Mercedes",
+            "name_url": "https://epic7x.com/character/celestial-mercedes/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/06/Celine-icon.png",
+            "url": "https://epic7x.com/character/celine/",
+            "name": "Celine",
+            "name_url": "https://epic7x.com/character/celine/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/02/Cerise-icon-1.png",
+            "url": "https://epic7x.com/character/cerise/",
+            "name": "Cerise",
+            "name_url": "https://epic7x.com/character/cerise/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/03/Cermia-icon.png",
+            "url": "https://epic7x.com/character/cermia/",
+            "name": "Cermia",
+            "name_url": "https://epic7x.com/character/cermia/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Challenger-Dominiel-icon.png",
+            "url": "https://epic7x.com/character/challenger-dominiel/",
+            "name": "Challenger Dominiel",
+            "name_url": "https://epic7x.com/character/challenger-dominiel/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Champion-Zerato-icon.png",
+            "url": "https://epic7x.com/character/champion-zerato/",
+            "name": "Champion Zerato",
+            "name_url": "https://epic7x.com/character/champion-zerato/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Chaos-Inquisitor-icon.png",
+            "url": "https://epic7x.com/character/chaos-inquisitor/",
+            "name": "Chaos Inquisitor",
+            "name_url": "https://epic7x.com/character/chaos-inquisitor/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Chaos-Sect-Axe-icon.png",
+            "url": "https://epic7x.com/character/chaos-sect-axe/",
+            "name": "Chaos Sect Axe",
+            "name_url": "https://epic7x.com/character/chaos-sect-axe/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/03/Charles-icon-1.png",
+            "url": "https://epic7x.com/character/charles/",
+            "name": "Charles",
+            "name_url": "https://epic7x.com/character/charles/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/03/Charlotte-icon.png",
+            "url": "https://epic7x.com/character/charlotte/",
+            "name": "Charlotte",
+            "name_url": "https://epic7x.com/character/charlotte/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Chloe-icon.png",
+            "url": "https://epic7x.com/character/chloe/",
+            "name": "Chloe",
+            "name_url": "https://epic7x.com/character/chloe/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/08/Choux-icon-1-1.png",
+            "url": "https://epic7x.com/character/choux/",
+            "name": "Choux",
+            "name_url": "https://epic7x.com/character/choux/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/09/Christy-icon.png",
+            "url": "https://epic7x.com/character/christy/",
+            "name": "Christy",
+            "name_url": "https://epic7x.com/character/christy/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Church-of-Ilryos-Axe.png",
+            "url": "https://epic7x.com/character/church-of-ilryos-axe/",
+            "name": "Church of Ilryos Axe",
+            "name_url": "https://epic7x.com/character/church-of-ilryos-axe/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Cidd-icon.png",
+            "url": "https://epic7x.com/character/cidd/",
+            "name": "Cidd",
+            "name_url": "https://epic7x.com/character/cidd/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Clarissa-icon.png",
+            "url": "https://epic7x.com/character/clarissa/",
+            "name": "Clarissa",
+            "name_url": "https://epic7x.com/character/clarissa/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/09/Closer-Charles-icon.png",
+            "url": "https://epic7x.com/character/closer-charles/",
+            "name": "Closer Charles",
+            "name_url": "https://epic7x.com/character/closer-charles/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Coli-icon.png",
+            "url": "https://epic7x.com/character/coli/",
+            "name": "Coli",
+            "name_url": "https://epic7x.com/character/coli/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/09/Laika-icon.png",
+            "url": "https://epic7x.com/character/command-model-laika/",
+            "name": "Command Model Laika",
+            "name_url": "https://epic7x.com/character/command-model-laika/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Commander-Lorina-icon.png",
+            "url": "https://epic7x.com/character/commander-lorina/",
+            "name": "Commander Lorina",
+            "name_url": "https://epic7x.com/character/commander-lorina/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/12/Conqueror-Lilias-icon.png",
+            "url": "https://epic7x.com/character/conqueror-lilias/",
+            "name": "Conqueror Lilias",
+            "name_url": "https://epic7x.com/character/conqueror-lilias/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Corvus-icon.png",
+            "url": "https://epic7x.com/character/corvus/",
+            "name": "Corvus",
+            "name_url": "https://epic7x.com/character/corvus/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/04/Crescent-Moon-Rin-icon.png",
+            "url": "https://epic7x.com/character/crescent-moon-rin/",
+            "name": "Crescent Moon Rin",
+            "name_url": "https://epic7x.com/character/crescent-moon-rin/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Crimson-Armin-icon.png",
+            "url": "https://epic7x.com/character/crimson-armin/",
+            "name": "Crimson Armin",
+            "name_url": "https://epic7x.com/character/crimson-armin/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Crozet-icon.png",
+            "url": "https://epic7x.com/character/crozet/",
+            "name": "Crozet",
+            "name_url": "https://epic7x.com/character/crozet/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Dark-Corvus-1.png",
+            "url": "https://epic7x.com/character/dark-corvus/",
+            "name": "Dark Corvus",
+            "name_url": "https://epic7x.com/character/dark-corvus/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/09/Desert-Jewel-Basar-icon.png",
+            "url": "https://epic7x.com/character/desert-jewel-basar/",
+            "name": "Desert Jewel Basar",
+            "name_url": "https://epic7x.com/character/desert-jewel-basar/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/02/Designer-Lilibet-icon.png",
+            "url": "https://epic7x.com/character/designer-lilibet/",
+            "name": "Designer Lilibet",
+            "name_url": "https://epic7x.com/character/designer-lilibet/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Destina-icon.png",
+            "url": "https://epic7x.com/character/destina/",
+            "name": "Destina",
+            "name_url": "https://epic7x.com/character/destina/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Diene-icon.png",
+            "url": "https://epic7x.com/character/diene/",
+            "name": "Diene",
+            "name_url": "https://epic7x.com/character/diene/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Dingo-Icon-1.png",
+            "url": "https://epic7x.com/character/dingo/",
+            "name": "Dingo",
+            "name_url": "https://epic7x.com/character/dingo/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/05/Dizzy-icon.png",
+            "url": "https://epic7x.com/character/dizzy/",
+            "name": "Dizzy",
+            "name_url": "https://epic7x.com/character/dizzy/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/08/Doll-Maker-Pearlhorizon-icon.png",
+            "url": "https://epic7x.com/character/doll-maker-pearlhorizon/",
+            "name": "Doll Maker Pearlhorizon",
+            "name_url": "https://epic7x.com/character/doll-maker-pearlhorizon/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Dominiel-icon.png",
+            "url": "https://epic7x.com/character/dominiel/",
+            "name": "Dominiel",
+            "name_url": "https://epic7x.com/character/dominiel/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Doris-icon.png",
+            "url": "https://epic7x.com/character/doris/",
+            "name": "Doris",
+            "name_url": "https://epic7x.com/character/doris/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/10/Eaton-icon.png",
+            "url": "https://epic7x.com/character/eaton/",
+            "name": "Eaton",
+            "name_url": "https://epic7x.com/character/eaton/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/03/Eda-icon.png",
+            "url": "https://epic7x.com/character/eda/",
+            "name": "Eda",
+            "name_url": "https://epic7x.com/character/eda/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/08/edward-elric-icon.jpg",
+            "url": "https://epic7x.com/character/edward-elric/",
+            "name": "Edward Elric",
+            "name_url": "https://epic7x.com/character/edward-elric/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/11/Elena-icon.png",
+            "url": "https://epic7x.com/character/elena/",
+            "name": "Elena",
+            "name_url": "https://epic7x.com/character/elena/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/04/Elphelt-icon-1.png",
+            "url": "https://epic7x.com/character/elphelt-valentine/",
+            "name": "Elphelt Valentine",
+            "name_url": "https://epic7x.com/character/elphelt-valentine/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Elson-icon.png",
+            "url": "https://epic7x.com/character/elson/",
+            "name": "Elson",
+            "name_url": "https://epic7x.com/character/elson/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/09/Emilia-icon.png",
+            "url": "https://epic7x.com/character/emilia/",
+            "name": "Emilia",
+            "name_url": "https://epic7x.com/character/emilia/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Enott-icon.png",
+            "url": "https://epic7x.com/character/enott/",
+            "name": "Enott",
+            "name_url": "https://epic7x.com/character/enott/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/09/Ervalen-icon.png",
+            "url": "https://epic7x.com/character/ervalen/",
+            "name": "Ervalen",
+            "name_url": "https://epic7x.com/character/ervalen/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/12/Fairytale-Tenebria-icon.png",
+            "url": "https://epic7x.com/character/fairytale-tenebria/",
+            "name": "Fairytale Tenebria",
+            "name_url": "https://epic7x.com/character/fairytale-tenebria/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/11/Faithless-Lidica-icon.png",
+            "url": "https://epic7x.com/character/faithless-lidica/",
+            "name": "Faithless Lidica",
+            "name_url": "https://epic7x.com/character/faithless-lidica/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Falconer-Kluri-icon.png",
+            "url": "https://epic7x.com/character/falconer-kluri/",
+            "name": "Falconer Kluri",
+            "name_url": "https://epic7x.com/character/falconer-kluri/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/06/Fallen-Cecilia-icon.png",
+            "url": "https://epic7x.com/character/fallen-cecilia/",
+            "name": "Fallen Cecilia",
+            "name_url": "https://epic7x.com/character/fallen-cecilia/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Fighter-Maya-icon.png",
+            "url": "https://epic7x.com/character/fighter-maya/",
+            "name": "Fighter Maya",
+            "name_url": "https://epic7x.com/character/fighter-maya/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/11/Flan-icon-1-1.png",
+            "url": "https://epic7x.com/character/flan/",
+            "name": "Flan",
+            "name_url": "https://epic7x.com/character/flan/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/06/Free-Spirit-Tieria-icon.png",
+            "url": "https://epic7x.com/character/free-spirit-tieria/",
+            "name": "Free Spirit Tieria",
+            "name_url": "https://epic7x.com/character/free-spirit-tieria/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/08/Furious-icon.png",
+            "url": "https://epic7x.com/character/furious/",
+            "name": "Furious",
+            "name_url": "https://epic7x.com/character/furious/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/General-Purrgis-icon.png",
+            "url": "https://epic7x.com/character/general-purrgis/",
+            "name": "General Purrgis",
+            "name_url": "https://epic7x.com/character/general-purrgis/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/10/Glenn-icon-real.png",
+            "url": "https://epic7x.com/character/glenn/",
+            "name": "Glenn",
+            "name_url": "https://epic7x.com/character/glenn/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Gloomyrain-icon.png",
+            "url": "https://epic7x.com/character/gloomyrain/",
+            "name": "Gloomyrain",
+            "name_url": "https://epic7x.com/character/gloomyrain/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/10/Godmother-icon-real.png",
+            "url": "https://epic7x.com/character/godmother/",
+            "name": "Godmother",
+            "name_url": "https://epic7x.com/character/godmother/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/03/Great-Chief-Khawana-icon.png",
+            "url": "https://epic7x.com/character/great-chief-khawana/",
+            "name": "Great Chief Khawana",
+            "name_url": "https://epic7x.com/character/great-chief-khawana/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Guider-Aither-icon.png",
+            "url": "https://epic7x.com/character/guider-aither/",
+            "name": "Guider Aither",
+            "name_url": "https://epic7x.com/character/guider-aither/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Gunther-icon.png",
+            "url": "https://epic7x.com/character/gunther/",
+            "name": "Gunther",
+            "name_url": "https://epic7x.com/character/gunther/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/01/Hasol-icon.png",
+            "url": "https://epic7x.com/character/hasol/",
+            "name": "Hasol",
+            "name_url": "https://epic7x.com/character/hasol/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Haste-icon.png",
+            "url": "https://epic7x.com/character/haste/",
+            "name": "Haste",
+            "name_url": "https://epic7x.com/character/haste/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/10/Hataan-icon.png",
+            "url": "https://epic7x.com/character/hataan/",
+            "name": "Hataan",
+            "name_url": "https://epic7x.com/character/hataan/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Hazel-icon.png",
+            "url": "https://epic7x.com/character/hazel/",
+            "name": "Hazel",
+            "name_url": "https://epic7x.com/character/hazel/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/08/Helen-icon.png",
+            "url": "https://epic7x.com/character/helen/",
+            "name": "Helen",
+            "name_url": "https://epic7x.com/character/helen/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Helga-icon.png",
+            "url": "https://epic7x.com/character/helga/",
+            "name": "Helga",
+            "name_url": "https://epic7x.com/character/helga/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/07/Holiday-yufine-icon-for-real.png",
+            "url": "https://epic7x.com/character/holiday-yufine/",
+            "name": "Holiday Yufine",
+            "name_url": "https://epic7x.com/character/holiday-yufine/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/01/Holy-Flame-Adin-icon.png",
+            "url": "https://epic7x.com/character/holy-flame-adin/",
+            "name": "Holy Flame Adin",
+            "name_url": "https://epic7x.com/character/holy-flame-adin/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Hurado-icon.png",
+            "url": "https://epic7x.com/character/hurado/",
+            "name": "Hurado",
+            "name_url": "https://epic7x.com/character/hurado/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/01/Hwayoung-icon.png",
+            "url": "https://epic7x.com/character/hwayoung/",
+            "name": "Hwayoung",
+            "name_url": "https://epic7x.com/character/hwayoung/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/10/ian-icon-1.png",
+            "url": "https://epic7x.com/character/ian/",
+            "name": "Ian",
+            "name_url": "https://epic7x.com/character/ian/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/05/Ilynav-icon.png",
+            "url": "https://epic7x.com/character/ilynav/",
+            "name": "Ilynav",
+            "name_url": "https://epic7x.com/character/ilynav/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/05/Inferno-Khawazu-icon-actual.png",
+            "url": "https://epic7x.com/character/inferno-khawazu/",
+            "name": "Inferno Khawazu",
+            "name_url": "https://epic7x.com/character/inferno-khawazu/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Iseria-icon.png",
+            "url": "https://epic7x.com/character/iseria/",
+            "name": "Iseria",
+            "name_url": "https://epic7x.com/character/iseria/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/01/Jack-O-icon.png",
+            "url": "https://epic7x.com/character/jack-o/",
+            "name": "Jack-O’",
+            "name_url": "https://epic7x.com/character/jack-o/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/01/Januta-icon.png",
+            "url": "https://epic7x.com/character/januta/",
+            "name": "Januta",
+            "name_url": "https://epic7x.com/character/januta/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Jecht-icon.png",
+            "url": "https://epic7x.com/character/jecht/",
+            "name": "Jecht",
+            "name_url": "https://epic7x.com/character/jecht/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Jena-icon.png",
+            "url": "https://epic7x.com/character/jena/",
+            "name": "Jena",
+            "name_url": "https://epic7x.com/character/jena/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Judge-Kise-icon.png",
+            "url": "https://epic7x.com/character/judge-kise/",
+            "name": "Judge Kise",
+            "name_url": "https://epic7x.com/character/judge-kise/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Judith-icon.jpg",
+            "url": "https://epic7x.com/character/judith/",
+            "name": "Judith",
+            "name_url": "https://epic7x.com/character/judith/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Karin-icon.jpg",
+            "url": "https://epic7x.com/character/karin/",
+            "name": "Karin",
+            "name_url": "https://epic7x.com/character/karin/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/06/kawerik-2.png",
+            "url": "https://epic7x.com/character/kawerik/",
+            "name": "Kawerik",
+            "name_url": "https://epic7x.com/character/kawerik/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-07-at-22.58.09.png",
+            "url": "https://epic7x.com/character/kayron/",
+            "name": "Kayron",
+            "name_url": "https://epic7x.com/character/kayron/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Ken-icon.png",
+            "url": "https://epic7x.com/character/ken/",
+            "name": "Ken",
+            "name_url": "https://epic7x.com/character/ken/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/06/kawa-3.png",
+            "url": "https://epic7x.com/character/khawana/",
+            "name": "Khawana",
+            "name_url": "https://epic7x.com/character/khawana/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/06/khawazu-3.png",
+            "url": "https://epic7x.com/character/khawazu/",
+            "name": "Khawazu",
+            "name_url": "https://epic7x.com/character/khawazu/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/kikirat-v2-icon.png",
+            "url": "https://epic7x.com/character/kikirat-v2/",
+            "name": "Kikirat V2",
+            "name_url": "https://epic7x.com/character/kikirat-v2/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Kiris-icon.jpg",
+            "url": "https://epic7x.com/character/kiris/",
+            "name": "Kiris",
+            "name_url": "https://epic7x.com/character/kiris/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-07-at-03.51.26.png",
+            "url": "https://epic7x.com/character/kise/",
+            "name": "Kise",
+            "name_url": "https://epic7x.com/character/kise/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/kitty-icon.png",
+            "url": "https://epic7x.com/character/kitty-clarissa/",
+            "name": "Kitty Clarissa",
+            "name_url": "https://epic7x.com/character/kitty-clarissa/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/06/kizuna-ai-icon.jpg",
+            "url": "https://epic7x.com/character/kizuna-ai/",
+            "name": "Kizuna AI",
+            "name_url": "https://epic7x.com/character/kizuna-ai/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Kururi-icon.jpg",
+            "url": "https://epic7x.com/character/kluri/",
+            "name": "Kluri",
+            "name_url": "https://epic7x.com/character/kluri/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Krau-icon.jpg",
+            "url": "https://epic7x.com/character/krau/",
+            "name": "Krau",
+            "name_url": "https://epic7x.com/character/krau/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/09/Landy-icon-2.png",
+            "url": "https://epic7x.com/character/landy/",
+            "name": "Landy",
+            "name_url": "https://epic7x.com/character/landy/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/09/last-rider-krau-icon.jpg",
+            "url": "https://epic7x.com/character/last-rider-krau/",
+            "name": "Last Rider Krau",
+            "name_url": "https://epic7x.com/character/last-rider-krau/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/10/lena.jpg",
+            "url": "https://epic7x.com/character/lena/",
+            "name": "Lena",
+            "name_url": "https://epic7x.com/character/lena/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Leo-icon.jpg",
+            "url": "https://epic7x.com/character/leo/",
+            "name": "Leo",
+            "name_url": "https://epic7x.com/character/leo/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/02/lidia-face.png",
+            "url": "https://epic7x.com/character/lidica/",
+            "name": "Lidica",
+            "name_url": "https://epic7x.com/character/lidica/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/09/lilias-icon.jpg",
+            "url": "https://epic7x.com/character/lilias/",
+            "name": "Lilias",
+            "name_url": "https://epic7x.com/character/lilias/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/06/lilibet-3.png",
+            "url": "https://epic7x.com/character/lilibet/",
+            "name": "Lilibet",
+            "name_url": "https://epic7x.com/character/lilibet/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/01/Lionheart-Cermia-icon.png",
+            "url": "https://epic7x.com/character/lionheart-cermia/",
+            "name": "Lionheart Cermia",
+            "name_url": "https://epic7x.com/character/lionheart-cermia/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/03/Little-Queen-Charlotte-icon.png",
+            "url": "https://epic7x.com/character/little-queen-charlotte/",
+            "name": "Little Queen Charlotte",
+            "name_url": "https://epic7x.com/character/little-queen-charlotte/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Lorina-icon.jpg",
+            "url": "https://epic7x.com/character/lorina/",
+            "name": "Lorina",
+            "name_url": "https://epic7x.com/character/lorina/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Latz-icon.jpg",
+            "url": "https://epic7x.com/character/lots/",
+            "name": "Lots",
+            "name_url": "https://epic7x.com/character/lots/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/02/Lucy-icon.png",
+            "url": "https://epic7x.com/character/lucy/",
+            "name": "Lucy",
+            "name_url": "https://epic7x.com/character/lucy/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Ludwig-icon.jpg",
+            "url": "https://epic7x.com/character/ludwig/",
+            "name": "Ludwig",
+            "name_url": "https://epic7x.com/character/ludwig/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/06/luluca-icon.png",
+            "url": "https://epic7x.com/character/luluca/",
+            "name": "Luluca",
+            "name_url": "https://epic7x.com/character/luluca/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Luna-icon.jpg",
+            "url": "https://epic7x.com/character/luna/",
+            "name": "Luna",
+            "name_url": "https://epic7x.com/character/luna/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/10/Magic-Scholar-Doris-icon-1.png",
+            "url": "https://epic7x.com/character/magic-scholar-doris/",
+            "name": "Magic Scholar Doris",
+            "name_url": "https://epic7x.com/character/magic-scholar-doris/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-07-at-03.22.02.png",
+            "url": "https://epic7x.com/character/maid-chloe/",
+            "name": "Maid Chloe",
+            "name_url": "https://epic7x.com/character/maid-chloe/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Brawler-Ken-Icon.jpg",
+            "url": "https://epic7x.com/character/martial-artist-ken/",
+            "name": "Martial Artist Ken",
+            "name_url": "https://epic7x.com/character/martial-artist-ken/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/mascot.png",
+            "url": "https://epic7x.com/character/mascot-hazel/",
+            "name": "Mascot Hazel",
+            "name_url": "https://epic7x.com/character/mascot-hazel/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Maya-icon.png",
+            "url": "https://epic7x.com/character/maya/",
+            "name": "Maya",
+            "name_url": "https://epic7x.com/character/maya/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/05/Mediator-Kawerik-icon.png",
+            "url": "https://epic7x.com/character/mediator-kawerik/",
+            "name": "Mediator Kawerik",
+            "name_url": "https://epic7x.com/character/mediator-kawerik/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/08/Melany-icon.png",
+            "url": "https://epic7x.com/character/melany/",
+            "name": "Melany",
+            "name_url": "https://epic7x.com/character/melany/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/10/melissa-icon.jpg",
+            "url": "https://epic7x.com/character/melissa/",
+            "name": "Melissa",
+            "name_url": "https://epic7x.com/character/melissa/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Mercedes-icon.png",
+            "url": "https://epic7x.com/character/mercedes/",
+            "name": "Mercedes",
+            "name_url": "https://epic7x.com/character/mercedes/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/02/mercenary-helga-face.png",
+            "url": "https://epic7x.com/character/mercenary-helga/",
+            "name": "Mercenary Helga",
+            "name_url": "https://epic7x.com/character/mercenary-helga/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/10/Milim-icon.png",
+            "url": "https://epic7x.com/character/milim/",
+            "name": "Milim",
+            "name_url": "https://epic7x.com/character/milim/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Mirsa-icon.jpg",
+            "url": "https://epic7x.com/character/mirsa/",
+            "name": "Mirsa",
+            "name_url": "https://epic7x.com/character/mirsa/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Mistychain-icon.jpg",
+            "url": "https://epic7x.com/character/mistychain/",
+            "name": "Mistychain",
+            "name_url": "https://epic7x.com/character/mistychain/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Montmorancy-Icon.png",
+            "url": "https://epic7x.com/character/montmorancy/",
+            "name": "Montmorancy",
+            "name_url": "https://epic7x.com/character/montmorancy/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/08/moon-bunny-dominiel-icon.jpg",
+            "url": "https://epic7x.com/character/moon-bunny-dominiel/",
+            "name": "Moon Bunny Dominiel",
+            "name_url": "https://epic7x.com/character/moon-bunny-dominiel/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/12/Mort-icon.png",
+            "url": "https://epic7x.com/character/mort/",
+            "name": "Mort",
+            "name_url": "https://epic7x.com/character/mort/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Mucacha-icon.jpg",
+            "url": "https://epic7x.com/character/mucacha/",
+            "name": "Mucacha",
+            "name_url": "https://epic7x.com/character/mucacha/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/07/mui-face.png",
+            "url": "https://epic7x.com/character/mui/",
+            "name": "Mui",
+            "name_url": "https://epic7x.com/character/mui/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/03/Muse-Rima-icon.png",
+            "url": "https://epic7x.com/character/muse-rima/",
+            "name": "Muse Rima",
+            "name_url": "https://epic7x.com/character/muse-rima/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/01/Muwi-icon.png",
+            "url": "https://epic7x.com/character/muwi/",
+            "name": "Muwi",
+            "name_url": "https://epic7x.com/character/muwi/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Nemunas-icon.jpg",
+            "url": "https://epic7x.com/character/nemunas/",
+            "name": "Nemunas",
+            "name_url": "https://epic7x.com/character/nemunas/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/11/Operator-Sigret-icon.png",
+            "url": "https://epic7x.com/character/operator-sigret/",
+            "name": "Operator Sigret",
+            "name_url": "https://epic7x.com/character/operator-sigret/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/01/Orte-icon.png",
+            "url": "https://epic7x.com/character/orte/",
+            "name": "Orte",
+            "name_url": "https://epic7x.com/character/orte/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Otillie-icon.jpg",
+            "url": "https://epic7x.com/character/otillie/",
+            "name": "Otillie",
+            "name_url": "https://epic7x.com/character/otillie/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/11/pavel-1.png",
+            "url": "https://epic7x.com/character/pavel/",
+            "name": "Pavel",
+            "name_url": "https://epic7x.com/character/pavel/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Pearlhorizon-icon.png",
+            "url": "https://epic7x.com/character/pearlhorizon/",
+            "name": "Pearlhorizon",
+            "name_url": "https://epic7x.com/character/pearlhorizon/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/01/Peira-icon.png",
+            "url": "https://epic7x.com/character/peira/",
+            "name": "Peira",
+            "name_url": "https://epic7x.com/character/peira/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/09/Penelope-icon.png",
+            "url": "https://epic7x.com/character/penelope/",
+            "name": "Penelope",
+            "name_url": "https://epic7x.com/character/penelope/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/01/Pirate-Captain-Flan-icon.png",
+            "url": "https://epic7x.com/character/pirate-captain-flan/",
+            "name": "Pirate Captain Flan",
+            "name_url": "https://epic7x.com/character/pirate-captain-flan/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/01/Politis-icon.png",
+            "url": "https://epic7x.com/character/politis/",
+            "name": "Politis",
+            "name_url": "https://epic7x.com/character/politis/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Purrgis-icon.jpg",
+            "url": "https://epic7x.com/character/purrgis/",
+            "name": "Purrgis",
+            "name_url": "https://epic7x.com/character/purrgis/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Pyllis-icon.jpg",
+            "url": "https://epic7x.com/character/pyllis/",
+            "name": "Pyllis",
+            "name_url": "https://epic7x.com/character/pyllis/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/09/Ram-icon.png",
+            "url": "https://epic7x.com/character/ram/",
+            "name": "Ram",
+            "name_url": "https://epic7x.com/character/ram/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/10/Ran-icon.png",
+            "url": "https://epic7x.com/character/ran/",
+            "name": "Ran",
+            "name_url": "https://epic7x.com/character/ran/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Las-icon.jpg",
+            "url": "https://epic7x.com/character/ras/",
+            "name": "Ras",
+            "name_url": "https://epic7x.com/character/ras/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Raci-icon.jpg",
+            "url": "https://epic7x.com/character/ravi/",
+            "name": "Ravi",
+            "name_url": "https://epic7x.com/character/ravi/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/05/Ray-icon.png",
+            "url": "https://epic7x.com/character/ray/",
+            "name": "Ray",
+            "name_url": "https://epic7x.com/character/ray/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/09/Rem.png",
+            "url": "https://epic7x.com/character/rem/",
+            "name": "Rem",
+            "name_url": "https://epic7x.com/character/rem/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/06/remnant-violet-icon.jpg",
+            "url": "https://epic7x.com/character/remnant-violet/",
+            "name": "Remnant Violet",
+            "name_url": "https://epic7x.com/character/remnant-violet/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Requiemroar-icon.jpg",
+            "url": "https://epic7x.com/character/requiemroar/",
+            "name": "Requiemroar",
+            "name_url": "https://epic7x.com/character/requiemroar/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/09/researcher-carrot-icon.jpg",
+            "url": "https://epic7x.com/character/researcher-carrot/",
+            "name": "Researcher Carrot",
+            "name_url": "https://epic7x.com/character/researcher-carrot/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/icon-1.png",
+            "url": "https://epic7x.com/character/righteous-thief-roozid/",
+            "name": "Righteous Thief Roozid",
+            "name_url": "https://epic7x.com/character/righteous-thief-roozid/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Rikoris-icon.jpg",
+            "url": "https://epic7x.com/character/rikoris/",
+            "name": "Rikoris",
+            "name_url": "https://epic7x.com/character/rikoris/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Rima-icon.jpg",
+            "url": "https://epic7x.com/character/rima/",
+            "name": "Rima",
+            "name_url": "https://epic7x.com/character/rima/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/10/Rimuru-icon.png",
+            "url": "https://epic7x.com/character/rimuru/",
+            "name": "Rimuru",
+            "name_url": "https://epic7x.com/character/rimuru/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Rin-icons.jpg",
+            "url": "https://epic7x.com/character/rin/",
+            "name": "Rin",
+            "name_url": "https://epic7x.com/character/rin/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/08/riza-hawkeye-icon.jpg",
+            "url": "https://epic7x.com/character/riza-hawkeye/",
+            "name": "Riza Hawkeye",
+            "name_url": "https://epic7x.com/character/riza-hawkeye/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/07/warrior-leo.jpg",
+            "url": "https://epic7x.com/character/roaming-warrior-leo/",
+            "name": "Roaming Warrior Leo",
+            "name_url": "https://epic7x.com/character/roaming-warrior-leo/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/01/loeanna-1.png",
+            "url": "https://epic7x.com/character/roana/",
+            "name": "Roana",
+            "name_url": "https://epic7x.com/character/roana/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Romann-icon.jpg",
+            "url": "https://epic7x.com/character/romann/",
+            "name": "Romann",
+            "name_url": "https://epic7x.com/character/romann/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Roozid-icon.jpg",
+            "url": "https://epic7x.com/character/roozid/",
+            "name": "Roozid",
+            "name_url": "https://epic7x.com/character/roozid/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Rose-icon.jpg",
+            "url": "https://epic7x.com/character/rose/",
+            "name": "Rose",
+            "name_url": "https://epic7x.com/character/rose/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/08/roy-mustang-icon.jpg",
+            "url": "https://epic7x.com/character/roy-mustang/",
+            "name": "Roy Mustang",
+            "name_url": "https://epic7x.com/character/roy-mustang/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Ruele-of-Light-icon.jpg",
+            "url": "https://epic7x.com/character/ruele-of-light/",
+            "name": "Ruele of Light",
+            "name_url": "https://epic7x.com/character/ruele-of-light/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/04/Sage-Baal-Sezan-icon.png",
+            "url": "https://epic7x.com/character/sage-baal-and-sezan/",
+            "name": "Sage Baal and Sezan",
+            "name_url": "https://epic7x.com/character/sage-baal-and-sezan/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Schuri-icon.jpg",
+            "url": "https://epic7x.com/character/schuri/",
+            "name": "Schuri",
+            "name_url": "https://epic7x.com/character/schuri/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/07/seaside-bellona-icon.jpg",
+            "url": "https://epic7x.com/character/seaside-bellona/",
+            "name": "Seaside Bellona",
+            "name_url": "https://epic7x.com/character/seaside-bellona/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/04/Senya-icon.png",
+            "url": "https://epic7x.com/character/senya/",
+            "name": "Senya",
+            "name_url": "https://epic7x.com/character/senya/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Serila-icon.jpg",
+            "url": "https://epic7x.com/character/serila/",
+            "name": "Serila",
+            "name_url": "https://epic7x.com/character/serila/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Sez-icon.jpg",
+            "url": "https://epic7x.com/character/sez/",
+            "name": "Sez",
+            "name_url": "https://epic7x.com/character/sez/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/10/Shadow-Knight-Pyllis-icon.png",
+            "url": "https://epic7x.com/character/shadow-knight-pyllis/",
+            "name": "Shadow Knight Pyllis",
+            "name_url": "https://epic7x.com/character/shadow-knight-pyllis/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Shadow-Rose-icon.jpg",
+            "url": "https://epic7x.com/character/shadow-rose/",
+            "name": "Shadow Rose",
+            "name_url": "https://epic7x.com/character/shadow-rose/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/07/Sharun-icon.png",
+            "url": "https://epic7x.com/character/sharun/",
+            "name": "Sharun",
+            "name_url": "https://epic7x.com/character/sharun/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Shooting-Star-Achates.jpg",
+            "url": "https://epic7x.com/character/shooting-star-achates/",
+            "name": "Shooting Star Achates",
+            "name_url": "https://epic7x.com/character/shooting-star-achates/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/10/Shuna-icon.png",
+            "url": "https://epic7x.com/character/shuna/",
+            "name": "Shuna",
+            "name_url": "https://epic7x.com/character/shuna/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Sekret-icons.jpg",
+            "url": "https://epic7x.com/character/sigret/",
+            "name": "Sigret",
+            "name_url": "https://epic7x.com/character/sigret/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Silk-icon.jpg",
+            "url": "https://epic7x.com/character/silk/",
+            "name": "Silk",
+            "name_url": "https://epic7x.com/character/silk/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/03/ml-aramintha-icon.png",
+            "url": "https://epic7x.com/character/silver-blade-aramintha/",
+            "name": "Silver Blade Aramintha",
+            "name_url": "https://epic7x.com/character/silver-blade-aramintha/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/04/angelica-face.png",
+            "url": "https://epic7x.com/character/sinful-angelica/",
+            "name": "Sinful Angelica",
+            "name_url": "https://epic7x.com/character/sinful-angelica/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/04/sol-3.png",
+            "url": "https://epic7x.com/character/sol-badguy/",
+            "name": "Sol Badguy",
+            "name_url": "https://epic7x.com/character/sol-badguy/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/03/Solitaria-icon.png",
+            "url": "https://epic7x.com/character/solitaria-of-the-snow/",
+            "name": "Solitaria of the Snow",
+            "name_url": "https://epic7x.com/character/solitaria-of-the-snow/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/10/Sonia-icon.png",
+            "url": "https://epic7x.com/character/sonia/",
+            "name": "Sonia",
+            "name_url": "https://epic7x.com/character/sonia/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/07/specimen-sez.jpg",
+            "url": "https://epic7x.com/character/specimen-sez/",
+            "name": "Specimen Sez",
+            "name_url": "https://epic7x.com/character/specimen-sez/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Visionary-Tenebria.jpg",
+            "url": "https://epic7x.com/character/specter-tenebria/",
+            "name": "Specter Tenebria",
+            "name_url": "https://epic7x.com/character/specter-tenebria/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/10/Spirit-Eye-Celine-icon.png",
+            "url": "https://epic7x.com/character/spirit-eye-celine/",
+            "name": "Spirit Eye Celine",
+            "name_url": "https://epic7x.com/character/spirit-eye-celine/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Straze-icon.png",
+            "url": "https://epic7x.com/character/straze/",
+            "name": "Straze",
+            "name_url": "https://epic7x.com/character/straze/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/07/Summer-Break-Charlotte-icon.png",
+            "url": "https://epic7x.com/character/summer-break-charlotte/",
+            "name": "Summer Break Charlotte",
+            "name_url": "https://epic7x.com/character/summer-break-charlotte/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/01/Summer-Disciple-Alexa.png",
+            "url": "https://epic7x.com/character/summers-disciple-alexa/",
+            "name": "Summer’s Disciple Alexa",
+            "name_url": "https://epic7x.com/character/summers-disciple-alexa/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/09/Summertime-Iseria-icon.png",
+            "url": "https://epic7x.com/character/summertime-iseria/",
+            "name": "Summertime Iseria",
+            "name_url": "https://epic7x.com/character/summertime-iseria/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Surin-icon.jpg",
+            "url": "https://epic7x.com/character/surin/",
+            "name": "Surin",
+            "name_url": "https://epic7x.com/character/surin/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Sven-icon.jpg",
+            "url": "https://epic7x.com/character/sven/",
+            "name": "Sven",
+            "name_url": "https://epic7x.com/character/sven/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/01/Sylvan-Sage-Vivian-icon.png",
+            "url": "https://epic7x.com/character/sylvan-sage-vivian/",
+            "name": "Sylvan Sage Vivian",
+            "name_url": "https://epic7x.com/character/sylvan-sage-vivian/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/01/Taeyou-icon.png",
+            "url": "https://epic7x.com/character/taeyou/",
+            "name": "Taeyou",
+            "name_url": "https://epic7x.com/character/taeyou/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/02/tamarine-face.png",
+            "url": "https://epic7x.com/character/tamarinne/",
+            "name": "Tamarinne",
+            "name_url": "https://epic7x.com/character/tamarinne/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/taranor-guard-icon.png",
+            "url": "https://epic7x.com/character/taranor-guard/",
+            "name": "Taranor Guard",
+            "name_url": "https://epic7x.com/character/taranor-guard/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/taranor-royal-guard-icon.png",
+            "url": "https://epic7x.com/character/taranor-royal-guard/",
+            "name": "Taranor Royal Guard",
+            "name_url": "https://epic7x.com/character/taranor-royal-guard/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/02/Tempest-Surin-icon.png",
+            "url": "https://epic7x.com/character/tempest-surin/",
+            "name": "Tempest Surin",
+            "name_url": "https://epic7x.com/character/tempest-surin/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Tenebria-icon.jpg",
+            "url": "https://epic7x.com/character/tenebria/",
+            "name": "Tenebria",
+            "name_url": "https://epic7x.com/character/tenebria/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Tieria-icon.jpg",
+            "url": "https://epic7x.com/character/tieria/",
+            "name": "Tieria",
+            "name_url": "https://epic7x.com/character/tieria/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2020/10/top-model-luluca.jpg",
+            "url": "https://epic7x.com/character/top-model-luluca/",
+            "name": "Top Model Luluca",
+            "name_url": "https://epic7x.com/character/top-model-luluca/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/10/troublemaker-crozet-icon.jpg",
+            "url": "https://epic7x.com/character/troublemaker-crozet/",
+            "name": "Troublemaker Crozet",
+            "name_url": "https://epic7x.com/character/troublemaker-crozet/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Tywin-icon.jpg",
+            "url": "https://epic7x.com/character/tywin/",
+            "name": "Tywin",
+            "name_url": "https://epic7x.com/character/tywin/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/01/Verdant-Adin-icon.png",
+            "url": "https://epic7x.com/character/verdant-adin/",
+            "name": "Verdant Adin",
+            "name_url": "https://epic7x.com/character/verdant-adin/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/01/Vigilante-Leader-Glenn-icon.png",
+            "url": "https://epic7x.com/character/vigilante-leader-glenn/",
+            "name": "Vigilante Leader Glenn",
+            "name_url": "https://epic7x.com/character/vigilante-leader-glenn/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Vildred-icon.jpg",
+            "url": "https://epic7x.com/character/vildred/",
+            "name": "Vildred",
+            "name_url": "https://epic7x.com/character/vildred/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/Violet-icon.png",
+            "url": "https://epic7x.com/character/violet/",
+            "name": "Violet",
+            "name_url": "https://epic7x.com/character/violet/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/08/vivian_1.png",
+            "url": "https://epic7x.com/character/vivian/",
+            "name": "Vivian",
+            "name_url": "https://epic7x.com/character/vivian/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Wanda-icon.jpg",
+            "url": "https://epic7x.com/character/wanda/",
+            "name": "Wanda",
+            "name_url": "https://epic7x.com/character/wanda/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Wanderer-Silk-icon.jpg",
+            "url": "https://epic7x.com/character/wanderer-silk/",
+            "name": "Wanderer Silk",
+            "name_url": "https://epic7x.com/character/wanderer-silk/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Beholder-Shuri-icon.jpg",
+            "url": "https://epic7x.com/character/watcher-schuri/",
+            "name": "Watcher Schuri",
+            "name_url": "https://epic7x.com/character/watcher-schuri/",
+            "stars": "4"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/01/Yoonryoung-icon.png",
+            "url": "https://epic7x.com/character/yoonryoung/",
+            "name": "Yoonryoung",
+            "name_url": "https://epic7x.com/character/yoonryoung/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Yufine-icon.jpg",
+            "url": "https://epic7x.com/character/yufine/",
+            "name": "Yufine",
+            "name_url": "https://epic7x.com/character/yufine/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2022/01/Yulha-icon.png",
+            "url": "https://epic7x.com/character/yulha/",
+            "name": "Yulha",
+            "name_url": "https://epic7x.com/character/yulha/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Yuna-icon.jpg",
+            "url": "https://epic7x.com/character/yuna/",
+            "name": "Yuna",
+            "name_url": "https://epic7x.com/character/yuna/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/11/Zahhak-icon-real.png",
+            "url": "https://epic7x.com/character/zahhak/",
+            "name": "Zahhak",
+            "name_url": "https://epic7x.com/character/zahhak/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2021/01/Zealot-Carmainerose-icon.png",
+            "url": "https://epic7x.com/character/zealot-carmainerose/",
+            "name": "Zealot Carmainerose",
+            "name_url": "https://epic7x.com/character/zealot-carmainerose/",
+            "stars": "3"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2019/01/zeno.jpg",
+            "url": "https://epic7x.com/character/zeno/",
+            "name": "Zeno",
+            "name_url": "https://epic7x.com/character/zeno/",
+            "stars": "5"
+        },
+        {
+            "image": "https://epic7x.com/wp-content/uploads/2018/12/Zerato-icon.jpg",
+            "url": "https://epic7x.com/character/zerato/",
+            "name": "Zerato",
+            "name_url": "https://epic7x.com/character/zerato/",
+            "stars": "4"
+        }
+    ]
+}
